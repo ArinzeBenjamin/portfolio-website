@@ -1,0 +1,26 @@
+body {background-color: black;}
+
+h1 {color: white;
+text-transform: uppercase;
+text-align: center;}
+
+#image1 {border: 5px solid white;
+; width: 50%;
+margin-left: 300px;}
+
+p {color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+
+#image2 {width: 600px; height: 600px;
+border: 10px solid white;
+margin-left: 300px;}
+
+#image3 {border: 10px solid black;
+width: 600px; height: 600px;
+margin-left: 300px;}
+
+#image4 {border: 10px solid white;
+    margin-left: 300px;
+    width: 600px; height: 600px;}
